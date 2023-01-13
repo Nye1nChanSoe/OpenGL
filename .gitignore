@@ -1,0 +1,7 @@
+/.vs
+/bin
+/bin-int
+LearnOpenGL.sln
+/OpenGLPlayground/OpenGLProj.vcxproj
+/OpenGLPlayground/OpenGLProj.vcxproj.filters
+/OpenGLPlayground/OpenGLProj.vcxproj.user
